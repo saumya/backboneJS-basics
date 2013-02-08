@@ -212,22 +212,22 @@
  {
    "pageNumber": 30,
    "pageTitle": "Backbone JS",
-   "subTitle": "subTitle",
+   "subTitle": "",
    "punchLine": "And we broke the back button of browser.",
-   "description": "description"
+   "description": ""
  },
  {
    "pageNumber": 31,
    "pageTitle": "Backbone JS",
    "subTitle": "",
    "punchLine": "The fix ! Router",
-   "description": "description"
+   "description": ""
  },
  {
    "pageNumber": 32,
    "pageTitle": "Backbone JS",
    "subTitle": "",
    "punchLine": "Thank you.",
-   "description": "description"
+   "description": ""
  }
 ]

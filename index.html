@@ -30,9 +30,9 @@
 	<!-- Begin : Templating -->
 	<script id="slide_template" type="text/template">
 		<div>
-			<h1><% print(pageTitle); %><small><%= subTitle %></small></h1>
+			<h1><span id="slideTitle"> <% print(pageTitle); %> </span><small><%= subTitle %></small></h1>
 		  	<div class="descStyle"><%= description %></div>
-		  	<div><%= punchLine %></div>
+		  	<div class="thinGroovText"><%= punchLine %></div>
 		  	<div class="footerNav">
 				<a id="btnBack" class="btn btn-primary" href="#">Back</a>
 				<a id="btnNext" class="btn btn-primary" href="#">Next</a>

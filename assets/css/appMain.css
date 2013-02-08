@@ -29,8 +29,8 @@ body {
 	min-height: 200px;
 	font-size: 20px;
 	color: #7608AA;
-	text-shadow: -1px -1px 0px #888888,
-				1px 1px 2px #EEEEEE;
+	text-shadow: -1px -1px 1px #DDDDDD,
+				1px 1px 2px #DDDDDD;
 	
 	
 }

@@ -74,21 +74,21 @@
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
    "punchLine": "",
-   "description": "At least not Model, View and Controller. Rather 'c' stands for 'Collection' here in BackboneJS."
+   "description": "At least not Model, View and Controller.<br/> Rather 'c' stands for 'Collection' here in BackboneJS."
  },
  {
    "pageNumber": 12,
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
    "punchLine": "Model View Collection",
-   "description": ""
+   "description": "The basic"
  },
  {
    "pageNumber": 13,
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
    "punchLine": "Model View Collection Events History Router Utility",
-   "description": ""
+   "description": "And some more"
  },  
  {
    "pageNumber": 14,
@@ -107,35 +107,126 @@
  {
    "pageNumber": 16,
    "pageTitle": "Backbone JS",
-   "subTitle": "MV*",
-   "punchLine": "demo code",
-   "description": ""
+   "subTitle": "Lets Simplify.",
+   "punchLine": "All .js include tags are gone.",
+   "description": "Thats RequireJS in action."
  },
  {
    "pageNumber": 17,
    "pageTitle": "Backbone JS",
-   "subTitle": "MV*",
-   "punchLine": "TDD BDD Linting and more",
-   "description": ""
+   "subTitle": "Lets Simplify.",
+   "punchLine": "All .js include tags are gone.",
+   "description": "Thats RequireJS in action.<br/><br/> script data-main='src/appMain' src='assets/js/require-2.1.4.js'	"
  },
  {
    "pageNumber": 18,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Demo",
+   "description": "Thats RequireJS in action.<br/><br/> script data-main='src/appMain' src='assets/js/require-2.1.4.js'	"
+ },
+ {
+   "pageNumber": 19,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Define all your dependencies at one point.",
+   "description": "Thats RequireJS in action."
+ }, 
+ {
+   "pageNumber": 20,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Demo",
+   "description": "Thats RequireJS in action."
+ },
+ {
+   "pageNumber": 21,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Thats RequireJS in action.",
+   "description": "A little introduction to CommonJS and what requireJS does.<br/> Introduction to modules."
+ },  
+ {
+   "pageNumber": 22,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "RequireJS Shim configuration" ,
+   "description": "What if the library we choose does not comply to CommonJS ? <br/> RequireJS Shim config to rescue."
+ },
+ {
+   "pageNumber": 23,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Demo",
+   "description": "RequireJS Shim configuration"
+ },
+ {
+   "pageNumber": 23,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Model",
+   "description": "This is a model class <br/> var SlideModel = Backbone.Model.extend({});"
+ },
+ {
+   "pageNumber": 24,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Demo",
+   "description": "This is a model class <br/> var SlideModel = Backbone.Model.extend({});"
+ },
+ {
+   "pageNumber": 25,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "Collection",
+   "description": "Collection is a collection of models. <br/> This is a collection class <br/> var SlidesCollection = Backbone.Collection.extend({});"
+ },
+ {
+   "pageNumber": 26,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "View",
+   "description": "View class here is responsible for rendering the view<br/> and manage as a glue between Collection and view."
+ },
+ {
+   "pageNumber": 27,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "What ?!",
+   "description": "View class here is responsible for rendering the view<br/> and manage as a glue between Collection and view."
+ },
+ {
+   "pageNumber": 28,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "View / Controller / Partial View",
+   "description": "Well, <br/> whatever it is. <br/> It has the logic of getting data, rendering view. "
+ }, 
+ {
+   "pageNumber": 29,
+   "pageTitle": "Backbone JS",
+   "subTitle": "Lets Simplify.",
+   "punchLine": "demo",
+   "description": ""
+ },
+ {
+   "pageNumber": 30,
    "pageTitle": "Backbone JS",
    "subTitle": "subTitle",
    "punchLine": "And we broke the back button of browser.",
    "description": "description"
  },
  {
-   "pageNumber": 19,
+   "pageNumber": 31,
    "pageTitle": "Backbone JS",
-   "subTitle": "subTitle",
+   "subTitle": "",
    "punchLine": "The fix ! Router",
    "description": "description"
  },
  {
-   "pageNumber": 20,
+   "pageNumber": 32,
    "pageTitle": "Backbone JS",
-   "subTitle": "subTitle",
+   "subTitle": "",
    "punchLine": "Thank you.",
    "description": "description"
  }

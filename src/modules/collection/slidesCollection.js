@@ -2,8 +2,8 @@
  * @author saumya
  * 
  */
-define('modules/collection/SlidesCollection',
-['modules/model/SlideModel'],
+define('modules/collection/slidesCollection',
+['modules/model/slideModel'],
 function(SlideModel){
 	var SlidesCollection = Backbone.Collection.extend({
 		model: SlideModel, //localStorage: new Store('todos-backbone'),

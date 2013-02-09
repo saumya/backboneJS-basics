@@ -1,5 +1,5 @@
 define('modules/appEntryModule',
-	['modules/collection/SlidesCollection','modules/model/SlideModel','modules/view/SlideView'],
+	['modules/collection/slidesCollection','modules/model/slideModel','modules/view/slideView'],
 	function(SlidesCollection,SlideModel,SlideView){
 		console.log('AppEntry Module : ');
 		

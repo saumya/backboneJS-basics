@@ -2,7 +2,7 @@
  * @author saumya
  * 
  */
-define('modules/view/SlideView',
+define('modules/view/slideView',
 //['modules/model/SlideModel'],
 function(){
 	var templateString=$("#slide_template").html();

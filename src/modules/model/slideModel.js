@@ -2,7 +2,7 @@
  * @author saumya
  * 
  */
-define('modules/model/SlideModel',
+define('modules/model/slideModel',
 function(){
 	var SlideModel = Backbone.Model.extend({
 		defaults:{

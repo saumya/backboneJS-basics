@@ -11,7 +11,7 @@
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
    "punchLine": "What's structure?!",
-   "description": "<a href='http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/'>Journey Through The JavaScript MVC Jungle</a> <br/> <a href='http://addyosmani.github.com/todomvc/'>TodoMVC</a> <br/> <a href='http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller'>WIKI</a> <br/><br/> Model-View-ViewModel</br>Model–view–adapter<br/>Model–view–presenter<br/>Model–view–presenter"
+   "description": "<a href='http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/'>Journey Through The JavaScript MVC Jungle</a> <br/> <a href='http://addyosmani.github.com/todomvc/'>TodoMVC</a> <br/> <a href='http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller'>WIKI</a> <br/><br/> Model-View-ViewModel</br>Model–view–adapter<br/>Model–view–presenter"
  },
  {
    "pageNumber": 3,
@@ -94,7 +94,7 @@
    "pageNumber": 14,
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
-   "punchLine": "jQuery RequireJS UnderscoreJS",
+   "punchLine": "RequireJS UnderscoreJS",
    "description": "heavy dependency on other frameworks or libraries"
  },
  {
@@ -122,39 +122,32 @@
    "pageNumber": 18,
    "pageTitle": "Backbone JS",
    "subTitle": "Lets Simplify.",
-   "punchLine": "Demo",
-   "description": "Thats RequireJS in action.<br/><br/> script data-main='src/appMain' src='assets/js/require-2.1.4.js'	"
- },
- {
-   "pageNumber": 19,
-   "pageTitle": "Backbone JS",
-   "subTitle": "Lets Simplify.",
    "punchLine": "Define all your dependencies at one point.",
    "description": "Thats RequireJS in action."
  }, 
  {
-   "pageNumber": 20,
+   "pageNumber": 19,
    "pageTitle": "Backbone JS",
    "subTitle": "Lets Simplify.",
    "punchLine": "Demo",
    "description": "Thats RequireJS in action."
  },
  {
-   "pageNumber": 21,
+   "pageNumber": 20,
    "pageTitle": "Backbone JS",
    "subTitle": "Lets Simplify.",
-   "punchLine": "Thats RequireJS in action.",
+   "punchLine": "CommonJS",
    "description": "A little introduction to CommonJS and what requireJS does.<br/> Introduction to modules."
  },  
  {
-   "pageNumber": 22,
+   "pageNumber": 21,
    "pageTitle": "Backbone JS",
    "subTitle": "Lets Simplify.",
    "punchLine": "RequireJS Shim configuration" ,
    "description": "What if the library we choose does not comply to CommonJS ? <br/> RequireJS Shim config to rescue."
  },
  {
-   "pageNumber": 23,
+   "pageNumber": 22,
    "pageTitle": "Backbone JS",
    "subTitle": "Lets Simplify.",
    "punchLine": "Demo",

@@ -7,7 +7,8 @@ define('modules/collection/slidesCollection',
 function(SlideModel){
 	var SlidesCollection = Backbone.Collection.extend({
 		model: SlideModel, //localStorage: new Store('todos-backbone'),
-		url: "/assets/data/slides.json",  
+		//url: "http://localhost:8888/html5/projects/01_backboneJS-basics/assets/data/slides.json",
+		url: "assets/data/slides.json",   
 		initialize: function(){
 			console.log('SlidesCollection : initialize : ');
 			//event handlers

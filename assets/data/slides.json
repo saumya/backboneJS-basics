@@ -17,7 +17,7 @@
    "pageNumber": 3,
    "pageTitle": "Backbone JS",
    "subTitle": "and the Web",
-   "punchLine": "",
+   "punchLine": "Data-UI-Logic",
    "description": "A web page in very basic form contains the structure in itself."
  },
  {
@@ -73,7 +73,7 @@
    "pageNumber": 11,
    "pageTitle": "Backbone JS",
    "subTitle": "MV*",
-   "punchLine": "",
+   "punchLine": "C for Collection",
    "description": "At least not Model, View and Controller.<br/> Rather 'c' stands for 'Collection' here in BackboneJS."
  },
  {
